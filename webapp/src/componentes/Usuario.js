@@ -1,11 +1,11 @@
 import React from "react";
-// import Titulo from "./Titulo";
+
 
 const Alumno = () => {
   const alumnos = [
-    ["Mauro", 12312],
-    ["Andy", 123412],
-    ["Linares", 123123],
+    ["kevin", 189573],
+    ["luis", 189578],
+    ["juan", 189576],
   ];
   return (
     <>
